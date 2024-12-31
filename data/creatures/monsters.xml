@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monsters>
+    <monster name="Eagle Tamer Magician" looktype="1401" />
+    <monster name="Mutant Mangaba" looktype="1413" />
+	<monster name="Magma Bubble" looktype="1413" />
+	<monster name="The Primal Menace" looktype="1413" />
+	<monster name="Murcion" looktype="1399" /> 
+	<monster name="Ichgahal" looktype="1399" /> 
+	<monster name="Chagorz" looktype="1399" /> 
+	<monster name="Vemiath" looktype="1399" /> 
+	<monster name="Bakragore" looktype="1399" /> 
+
+	<monster name="Bloated Man-Maggot" looktype="1654" />
+	<monster name="Tunnel Devourer" looktype="1399" /> 
+    <monster name="Toxic Swarm" looktype="1401" />
+    <monster name="The Mega Magmaoid" looktype="1413" />
+    <monster name="Sopping Corpus" looktype="1659" />
+    <monster name="Oozing Corpus" looktype="1625" />
+    <monster name="Mycobiontic Beetle" looktype="1620" />
+	<monster name="Drume" looktype="1620" />
+	
+	<monster name="Walking Pillar" looktype="1656" />
+	<monster name="Wandering Pillar" looktype="1657" /> 
+    <monster name="Darklight Source" looktype="1660" />
+    <monster name="Darklight Striker" looktype="1661" />
+	
+	<monster name="Converter" looktype="1623" />
+	<monster name="Darklight Construct" looktype="1660" /> 
+    <monster name="Darklight Emitter" looktype="1627" />
+    <monster name="Meandering Mushroom" looktype="1621" />
+	<monster name="Oozing Carcass" looktype="1626" />
+	<monster name="Sopping Carcass" looktype="1658" /> 
+    <monster name="Rotten Man-Maggot" looktype="1655" />
+
     <monster name="A Carved Stone Tile" looktype="0" />
     <monster name="A Shielded Astral Glyph" looktype="0" />
     <monster name="Abyssador" looktype="495" />
@@ -91,6 +123,7 @@
     <monster name="Betrayed Wraith" looktype="233" />
     <monster name="Bibby Bloodbath" looktype="2" />
     <monster name="Big Boss Trolliver" looktype="281" />
+    <monster name="Big Tempesty" looktype="1654" />
     <monster name="Biting Book" looktype="1066" />
     <monster name="Biting Cold" looktype="53" />
     <monster name="Black Cobra" looktype="81" />
@@ -152,6 +185,8 @@
     <monster name="Burster Spectre" looktype="1122" lookhead="7" lookbody="19" looklegs="86" lookfeet="19" lookaddons="0" />
     <monster name="Butterfly" looktype="227" lookhead="20" lookbody="30" looklegs="40" lookfeet="50" lookaddons="0" />
     <monster name="Calamary" looktype="451" />
+    <monster name="Candy Horror" looktype="1739" /> 
+    <monster name="Candy Floss Elemental" looktype="1749" /> 
     <monster name="Canopic Jar" looktype="598" />
     <monster name="Capricious Phantom" looktype="1298" lookhead="81" lookbody="114" looklegs="85" lookfeet="83" lookaddons="0" />
     <monster name="Captain Jones" looktype="196" />
@@ -515,6 +550,7 @@
     <monster name="Ghoulish Hyaena" looktype="94" lookhead="20" lookbody="30" looklegs="40" lookfeet="50" lookaddons="0" />
     <monster name="Ghulosh" looktype="1062" lookhead="79" lookbody="94" looklegs="94" lookfeet="94" lookaddons="3" />
     <monster name="Ghulosh' Deathgaze" looktype="1063" lookhead="57" lookbody="57" looklegs="57" lookfeet="57" lookaddons="0" />
+    <monster name="Gingerbread Man" looktype="1738" /> 
     <monster name="Giant Beaver" looktype="1536" />
     <monster name="Giant Spider Wyda" looktype="38" />
     <monster name="Giant Spider" looktype="38" />
@@ -552,6 +588,12 @@
     <monster name="Gorerilla" looktype="1559" />
     <monster name="Gorgo" looktype="330" />
     <monster name="Gorzindel" looktype="1062" lookhead="94" lookbody="100" looklegs="0" lookfeet="0" lookaddons="1" />
+    <monster name="Goshnar's Malice" looktype="1654" />
+    <monster name="Goshnar's Hatred" looktype="1399" /> 
+    <monster name="Goshnar's Spite" looktype="1401" />
+    <monster name="Goshnar's Cruelty" looktype="1413" />
+    <monster name="Goshnar's Greed" looktype="1413" />
+    <monster name="Goshnar's Megalomania" looktype="1413" />
     <monster name="Gozzler" looktype="313" />
     <monster name="Grand Canon Dominus" looktype="1071" lookhead="57" lookbody="75" looklegs="77" lookfeet="86" lookaddons="0" />
     <monster name="Grand Chaplain Gaunder" looktype="1071" lookhead="57" lookbody="75" looklegs="38" lookfeet="86" lookaddons="1" />
@@ -847,6 +889,7 @@
     <monster name="Necropharus" looktype="209" />
     <monster name="Neferi The Spy" looktype="1759" /> 
     <monster name="Neutral Deepling Warrior" looktype="441" />
+    <monster name="Nibblemaw" looktype="1737" />
     <monster name="Nightfiend" looktype="568" />
     <monster name="Nighthunter" looktype="1552" />
     <monster name="Nightmare Of Gaz'Haragoth" looktype="587" />
@@ -915,6 +958,7 @@
     <monster name="Overcharge" looktype="290" />
     <monster name="Overcharged Disruption" looktype="0" />
     <monster name="Overcharged Energy Elemental" looktype="290" />
+    <monster name="Pacha Mamma" looktype="1399" /> 
     <monster name="Paiz The Pauperizer" looktype="362" />
     <monster name="Paladin Familiar" looktype="0" />
     <monster name="Paladin'S Apparition" looktype="129" lookhead="57" lookbody="42" looklegs="114" lookfeet="114" lookaddons="0" />
@@ -1163,6 +1207,8 @@
     <monster name="Stonerefiner" looktype="1032" />
     <monster name="Strange Slime" looktype="19" />
     <monster name="Strong Glooth Horror" looktype="677" />
+    <monster name="Sugar Cube" looktype="1753" /> 
+    <monster name="Sugar Cube Worker" looktype="1756" /> 
     <monster name="Sulphider" looktype="1546" />
     <monster name="Sulphur Scuttler" looktype="352" />
     <monster name="Sulphur Spouter" looktype="1547" />
