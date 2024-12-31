@@ -141,6 +141,9 @@
     <monster name="Brutus Bloodbeard" looktype="98" />
     <monster name="Bug" looktype="45" />
     <monster name="Bullwark" looktype="607" />
+    <monster name="Bulltaur Alchemist" looktype="1718" />
+    <monster name="Bulltaur brute" looktype="1717" />
+    <monster name="Bulltaur Forgepriest" looktype="1719" />
     <monster name="Burning Book" looktype="1061" lookhead="79" lookbody="113" looklegs="78" lookfeet="0" lookaddons="0" />
     <monster name="Burning Gladiator" looktype="541" lookhead="95" lookbody="113" looklegs="21" lookfeet="21" lookaddons="1" />
     <monster name="Burrowing Beetle" looktype="83" />
@@ -228,6 +231,7 @@
     <monster name="Cult Believer" looktype="132" lookhead="98" lookbody="77" looklegs="39" lookfeet="57" lookaddons="1" />
     <monster name="Cult Enforcer" looktype="134" lookhead="114" lookbody="19" looklegs="76" lookfeet="76" lookaddons="1" />
     <monster name="Cult Scholar" looktype="145" />
+    <monster name="Cunning Werepanther" looktype="1648" />
     <monster name="Cursed Ape" looktype="1592" />
     <monster name="Cursed Book" looktype="1061" lookhead="79" lookbody="83" looklegs="113" lookfeet="0" lookaddons="0" />
     <monster name="Cursed Gladiator" looktype="100" />
@@ -428,6 +432,7 @@
     <monster name="Fazzrah" looktype="343" />
     <monster name="Feeble Glooth Horror" looktype="677" />
     <monster name="Feral Sphinx" looktype="1188" lookhead="76" lookbody="75" looklegs="38" lookfeet="50" lookaddons="2" />
+    <monster name="Feral Werecrocodile" looktype="1647" lookhead="116" lookbody="95" looklegs="19" lookfeet="21" lookaddons="0" />
     <monster name="Fernfang" looktype="206" />
     <monster name="Feroxa" looktype="158" lookhead="57" lookbody="76" looklegs="77" lookfeet="57" lookaddons="0" />
     <monster name="Feroxa2" looktype="731" lookhead="57" lookbody="76" looklegs="77" lookfeet="57" lookaddons="0" />
@@ -802,6 +807,7 @@
     <monster name="Misguided Bully" looktype="159" lookhead="58" lookbody="22" looklegs="41" lookfeet="76" lookaddons="0" />
     <monster name="Misguided Shadow" looktype="985" />
     <monster name="Misguided Thief" looktype="684" lookhead="58" lookbody="58" looklegs="41" lookfeet="76" lookaddons="0" />
+    <monster name="Mitmah Scout" looktype="1709" />
     <monster name="Modified Gnarlhound" looktype="515" />
     <monster name="Mole" looktype="1048" />
     <monster name="Monk" looktype="57" />
@@ -1345,17 +1351,22 @@
     <monster name="Werebadger" looktype="729" />
     <monster name="Werebear" looktype="720" />
     <monster name="Wereboar" looktype="721" />
+    <monster name="Werecrocodile" looktype="1647" lookhead="95" lookbody="117" looklegs="4" lookfeet="116" lookaddons="0" />
     <monster name="Werefox" looktype="1030" />
     <monster name="Werehyaena Shaman" looktype="1300" />
     <monster name="Werehyaena" looktype="1300" lookhead="57" lookbody="77" looklegs="1" lookfeet="1" lookaddons="0" />
     <monster name="Werelion" looktype="1301" lookhead="58" lookbody="2" looklegs="94" lookfeet="0" lookaddons="3" />
     <monster name="Werelioness" looktype="1301" lookhead="58" lookbody="2" looklegs="94" lookfeet="94" lookaddons="0" />
+    <monster name="Werepanther" looktype="1648" />
     <monster name="Werewolf" looktype="308" />
+    <monster name="Weretiger" looktype="1649" />
     <monster name="Whirling Blades" looktype="102" />
     <monster name="White Deer" looktype="400" />
     <monster name="White Lion" looktype="1290" />
     <monster name="White Pale" looktype="564" />
     <monster name="White Shade" looktype="560" />
+    <monster name="White Tiger" looktype="1649" />
+    <monster name="White Weretiger" looktype="1646" />
     <monster name="Wiggler" looktype="510" />
     <monster name="Wild Dog" looktype="32" lookhead="20" lookbody="30" looklegs="40" lookfeet="50" lookaddons="0" />
     <monster name="Wild Fire Magic" looktype="0" />
@@ -1390,6 +1401,7 @@
     <monster name="Yellow Butterfly" looktype="10" />
     <monster name="Yeti" looktype="110" />
     <monster name="Yielothax" looktype="408" />
+    <monster name="Iks Yapunac" looktype="1702" />
     <monster name="Young Goanna" looktype="1196" />
     <monster name="Young Sea Serpent" looktype="317" />
     <monster name="Young Troll" looktype="15" />
